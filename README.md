@@ -1,6 +1,6 @@
 # Hongyi-Duan-Databricks
 
-[![PySpark Data Processing](https://github.com/nogibjj/Hongyi-Duan-PySpark/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Hongyi-Duan-PySpark/actions/workflows/cicd.yml)
+[![Data Pipeline](https://github.com/nogibjj/Hongyi-Duan-Databricks/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Hongyi-Duan-Databricks/actions/workflows/cicd.yml)
 
 This repository, `Hongyi-Duan-PySpark`, is a project that leverages Apache Spark for analyzing and processing NBA team data. The project includes data loading, transformation, and statistical analysis of team data, with automated tests to verify the functionality of each component.
 
