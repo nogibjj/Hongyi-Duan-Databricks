@@ -65,6 +65,8 @@ To run this project, you need:
    - Navigate to **Data > DBFS > Upload File**.
    - Select the files from this repository.
 
+<img width="1274" alt="1731903329150" src="https://github.com/user-attachments/assets/8ac603c3-18d6-4ea6-910c-23a1c5161c4c">
+
 4. Import the `.py` scripts into a Databricks notebook or workspace.
 
 ---
@@ -78,6 +80,8 @@ To run this project, you need:
    - Set up your cluster in Databricks.
    - Attach the notebook to the cluster.
    - Execute the code cells.
+
+<img width="1274" alt="1731903226569" src="https://github.com/user-attachments/assets/4c2f4652-bc8e-4de8-9ab8-ea1ba7e37f77">
 
 ### Local Development
 You can run the scripts locally by executing:
