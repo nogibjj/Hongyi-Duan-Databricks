@@ -1,4 +1,4 @@
-name: PySpark Data Processing
+name: Data Pipeline
 on:
   push:
     branches: [ "main" ]
