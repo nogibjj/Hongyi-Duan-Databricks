@@ -1,4 +1,4 @@
-# Hongyi-Duan-PySpark
+# Hongyi-Duan-Databricks
 
 [![PySpark Data Processing](https://github.com/nogibjj/Hongyi-Duan-PySpark/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Hongyi-Duan-PySpark/actions/workflows/cicd.yml)
 
